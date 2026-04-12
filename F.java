@@ -35,4 +35,8 @@ public class F implements G, I {
     public int af() {
         return -1;
     }
+
+    public int cc() {
+        return 39;
+    }
 }

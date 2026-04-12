@@ -27,4 +27,8 @@ public class F implements G, I {
     public String kk() {
         return "No";
     }
+
+    public Object rr() {
+        return null;
+    }
 }

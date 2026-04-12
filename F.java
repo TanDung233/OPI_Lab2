@@ -31,4 +31,8 @@ public class F implements G, I {
     public Object rr() {
         return null;
     }
+
+    public int af() {
+        return -1;
+    }
 }

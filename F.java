@@ -39,4 +39,8 @@ public class F implements G, I {
     public int cc() {
         return 39;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

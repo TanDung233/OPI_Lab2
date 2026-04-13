@@ -28,6 +28,10 @@ public class F extends null implements G, I {
         return "No";
     }
 
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
     public Object rr() {
         return null;
     }
@@ -48,7 +52,19 @@ public class F extends null implements G, I {
         return 99999;
     }
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+    public int ae() {
+        return 8;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 }

@@ -1,4 +1,4 @@
-public class F implements G, I {
+public class F extends null implements G, I {
 
     private long j = 4321;
 
@@ -31,7 +31,6 @@ public class F implements G, I {
     public Object rr() {
         return null;
     }
- HEAD
 
     public int af() {
         return -1;
@@ -48,5 +47,8 @@ public class F implements G, I {
     public long dd() {
         return 99999;
     }
- origin/br1
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

@@ -43,4 +43,8 @@ public class F implements G, I {
     public Object pp() {
         return this;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

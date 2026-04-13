@@ -31,4 +31,22 @@ public class F implements G, I {
     public Object rr() {
         return null;
     }
+ HEAD
+
+    public int af() {
+        return -1;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+ origin/br1
 }
